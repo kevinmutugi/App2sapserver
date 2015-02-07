@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">App2sapserver</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Git Android App</string>
+    <string name="hello_world">Git Android App</string>
     <string name="action_settings">Settings</string>
-    <string name="menu1">offers</string>
+    <string name="action_offers">offers</string>
+    <string name="strLoadList">Load List Asynchronously</string>
+    <string name="strviewImage">Photo</string>
+
 </resources>
